@@ -104,13 +104,13 @@ const Intro = () => {
               <div className="intro-social h5">
                 <a
                   className="intro-social-link"
-                  href="https://www.linkedin.com/in/mominul-hoque-290340217/"
+                  href="#"
                 >
                   LinkedIn
                 </a>
                 <a
                   className="intro-social-link"
-                  href="https://www.instagram.com/momin.2/"
+                  href="#"
                 >
                   Instagram
                 </a>

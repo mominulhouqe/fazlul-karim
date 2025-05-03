@@ -182,14 +182,14 @@ const LatestWorks = () => {
                           <div className="thumbnail-title h4">
                             <a href={work.titleLink}>{work.title}</a>
                           </div>
-                          {explore.find((data) => data.id === work.id) && (
+                          {/* {explore.find((data) => data.id === work.id) && (
                             <button
                               onClick={() => openExplore(work.id)}
                               className="thumbnail-link h5"
                             >
                               Explore
                             </button>
-                          )}
+                          )} */}
                         </div>
                       </SwiperSlide>
                     ))}
