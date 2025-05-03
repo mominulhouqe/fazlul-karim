@@ -1,111 +1,72 @@
 [
   {
-    "id": 1,
-    "image": "images/p2.png",
-    "title": "Donut Country – Shopify Web Design & Branding",
+    "id": 6,
+    "image": "images/tuha6.jpeg",
+    "title": "City Heights – Residential Building Construction & Site Supervision",
     "tags": [
-      {
-        "title": "Design",
-        "link": "#"
-      },
-      {
-        "title": "Branding",
-        "link": "#"
-      }
+      { "title": "Construction", "link": "#" },
+      { "title": "Site Supervision", "link": "#" }
     ],
     "titleLink": "#",
-    "description": "A fun and imaginative Shopify web design project centered around a donut-themed brand. Crafted a playful identity and strategic branding elements to establish a memorable visual presence for Donut Country.",
-    "date": "2025-01-15",
-    "client": "Donut World",
-    "projectLink": "https://example.com/donut-country"
+    "description": "Led the on-site supervision of a 12-story residential building. Coordinated with contractors, ensured structural integrity, and managed quality control from foundation to finish.",
+    "date": "2024-11-20",
+    "client": "UrbanBuild Pvt. Ltd.",
+    "projectLink": "#"
   },
   {
-    "id": 2,
-    "image": "images/p5.png",
-    "title": "Say Hay – Shopify Web Development & Minimal Branding",
+    "id": 7,
+    "image": "images/tuha3.jpeg",
+    "title": "Green River Overpass – Structural Design & Inspection",
     "tags": [
-      {
-        "title": "Development",
-        "link": "https://sayhay.net/"
-      }
+      { "title": "Bridge Design", "link": "#" },
+      { "title": "Quality Control", "link": "#" }
     ],
-    "titleLink": "https://sayhay.net/",
-    "description": "Executed a modern Shopify web development project for a healthy juice brand. Designed a sleek, minimalistic brand identity that aligns with the company’s clean and fresh image.",
-    "date": "2025-02-01",
-    "client": "Say Hay",
-    "projectLink": "https://sayhay.net/"
+    "titleLink": "#",
+    "description": "Contributed to the structural design of a 150-meter overpass. Performed load analysis, material selection, and conducted periodic inspections to ensure durability and safety.",
+    "date": "2023-08-10",
+    "client": "Metro Infrastructure Authority",
+    "projectLink": "#"
   },
   {
-    "id": 3,
-    "image": "images/p3.png",
-    "title": "Sharky – Shopify Website & Branding for Startups",
+    "id": 8,
+    "image": "images/tuha2.jpeg",
+    "title": "Rural Connectivity – Road Expansion & Drainage Solutions",
     "tags": [
-      {
-        "title": "Sharky",
-        "link": "https://edrbt0-d8.myshopify.com/"
-      },
-      {
-        "title": "Branding",
-        "link": "https://edrbt0-d8.myshopify.com/"
-      },
-      {
-        "title": "website",
-        "link": "https://edrbt0-d8.myshopify.com/"
-      }
+      { "title": "Roadworks", "link": "#" },
+      { "title": "Drainage", "link": "#" }
     ],
-    "titleLink": "https://edrbt0-d8.myshopify.com/",
-    "description": "Delivered a full-scale Shopify web development solution for a shark-themed startup brand. Included branding, UI/UX design, and engaging visuals to create a bold, energetic online presence.",
-    "date": "2025-03-12",
-    "client": "Development Labs",
-    "projectLink": "https://edrbt0-d8.myshopify.com/",
-    "password": "shopify-store"
+    "titleLink": "#",
+    "description": "Executed the redesign and widening of 18 km of rural roads. Integrated sustainable drainage systems and ensured long-term durability against seasonal flooding.",
+    "date": "2022-04-05",
+    "client": "Department of Local Engineering",
+    "projectLink": "#"
   },
   {
-    "id": 4,
-    "image": "images/p4.png",
-    "title": "Deluxe Canva – Shopify Development & Bold Visual Identity",
+    "id": 9,
+    "image": "images/tuha4.jpeg",
+    "title": "SafeWater – Water Treatment Plant Construction Oversight",
     "tags": [
-      {
-        "title": "Development",
-        "link": "https://deluxecanvas.de/"
-      },
-      {
-        "title": "Shopify",
-        "link": "https://deluxecanvas.de/"
-      },
-      {
-        "title": "Branding",
-        "link": "https://deluxecanvas.de/"
-      }
+      { "title": "Water Treatment", "link": "#" },
+      { "title": "Utility", "link": "#" }
     ],
-    "titleLink": "https://deluxecanvas.de/",
-    "description": "Developed a bold and premium Shopify store for a high-end Pic art brand. Focused on strong visual storytelling, dynamic UI elements, and a sharp design approach to reflect product quality.",
-    "date": "2025-04-05",
-    "client": "Deluxecanvas.",
-    "projectLink": "https://deluxecanvas.de/"
+    "titleLink": "#",
+    "description": "Supervised the construction of a municipal water treatment facility capable of processing 10 million liters per day. Ensured all civil works met environmental and safety standards.",
+    "date": "2023-01-17",
+    "client": "SafeWater Initiative",
+    "projectLink": "#"
   },
   {
-    "id": 5,
-    "image": "images/p1.png",
-    "title": "Frag Perfumes – Shopify Store Development & Nature-Inspired Branding",
+    "id": 10,
+    "image": "images/tuha5.jpeg",
+    "title": "SlopeGuard – Retaining Wall & Slope Stabilization Project",
     "tags": [
-      {
-        "title": "Development",
-        "link": "https://fragperfumes.com/"
-      },
-      {
-        "title": "Shopify",
-        "link": "https://fragperfumes.com/"
-      },
-      {
-        "title": "Branding",
-        "link": "https://fragperfumes.com/"
-      }
+      { "title": "Geotechnical", "link": "#" },
+      { "title": "Safety Engineering", "link": "#" }
     ],
-    "titleLink": "https://fragperfumes.com/",
-    "description": "Built a nature-inspired Shopify web store for a perfume company. Combined soft color palettes with elegant branding to convey freshness, luxury, and emotional connection through scent.",
-    "date": "2025-05-10",
-    "client": "Floral Paradise Co.",
-    "projectLink": "https://fragperfumes.com/"
+    "titleLink": "#",
+    "description": "Designed and supervised the construction of reinforced retaining walls to prevent landslides in hilly terrain. Applied slope stability analysis to protect nearby settlements.",
+    "date": "2024-06-30",
+    "client": "Hillside Housing Board",
+    "projectLink": "#"
   }
 ]

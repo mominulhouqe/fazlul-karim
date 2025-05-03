@@ -30,9 +30,9 @@ const Intro = () => {
                     color: "#111235",
                     boxSizing: "border-box",
                   }}
-                 
+
                 >
-                  I'm <br />a Web Developer
+                  I'm <br />a Civil Engineer
                 </span>
               </h1>
               <h3 className="intro-subtitle text-center md:text-start">
@@ -90,12 +90,13 @@ const Intro = () => {
                 </div>
                 <div className="thumbnail-body">
                   <div className="thumbnail-title h5">
-                    <a href="#">SHARK.</a>
+                    <a href="#">Residential Building Project</a>
                   </div>
                   <div className="thumbnail-text">
-                    A Web Development project I have recently worked on.
+                    Participated in the construction of a 5-story residential building, handling site supervision, structural layout planning, and coordination with contractors to ensure timely delivery.
                   </div>
                 </div>
+
               </div>
             </div>
             {/* Social-media-section */}
@@ -116,7 +117,7 @@ const Intro = () => {
               </div>
             </div>
           </div>
-          <div className="intro-bg-text">Mominul</div>
+          <div className="intro-bg-text">Fozlul Karim</div>
         </div>
         {isClient &&
           createPortal(

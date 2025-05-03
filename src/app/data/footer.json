@@ -1,20 +1,10 @@
 {
   "social": [
-    {
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/mominul-hoque-290340217/",
-      "img": "images/linkdn.png"
-
-    },
+    
     {
       "title": "facebook",
-      "link": "https://www.facebook.com/mominvai.fbuser",
+      "link": "https://www.facebook.com/profile.php?id=100015191652004",
       "img": "images/facebook.png"
-    },
-    {
-      "title": "instagram",
-      "link": "https://www.instagram.com/momin.2/",
-      "img": "images/logo-09-98x27.png"
     }
   ],
   "logo": {
@@ -24,10 +14,10 @@
     "title": "+880 1580424024",
     "link": "#"
   },
-  "copyright": "© 2025 mominulhauqe. All rights reserved.",
+  "copyright": "© 2025 fazlul karim. All rights reserved.",
   "email": {
-    "title": "mominulhauqe14@gmail.com",
+    "title": "info@gmail.com",
     "link": "#"
   },
-  "address": "Banasree , Dhaka , Bangladesh"
+  "address": "Chunarughat , Habiganj , Sylhet"
 }

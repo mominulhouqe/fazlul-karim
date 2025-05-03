@@ -1,13 +1,12 @@
 import type { Metadata } from "next";
 import { formular } from "./fonts";
 import "./styles/globals.scss";
+
 export const metadata: Metadata = {
-  title: "Portfolio Mominul Houqe",
-  description: "A designer portfolio page showcasing my work and designs.",
-  keywords: "design, portfolio, Mominul Houqe, web design, UI/UX",
-
+  title: "Portfolio Fozlul Karim",
+  description: "A civil engineer portfolio page showcasing my work and expertise.",
+  keywords: "civil engineering, portfolio, Fozlul Karim, engineering, construction, projects",
 };
-
 
 export default function RootLayout({
   children,

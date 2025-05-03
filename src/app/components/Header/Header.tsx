@@ -163,7 +163,7 @@ const Header: React.FC = () => {
             <Link href={"#"}>
               {/* <img src="/logoss.png" alt="logo" width={110} height={110} /> */}
               
-               Mominul
+              Fozlul Karim 
             </Link>
           </div>
 
