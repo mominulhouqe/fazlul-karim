@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "img": "images/shopify1.webp",
+    "date": "April 5, 2025",
+    "title": "What We Do – Expert Shopify Web Development & Branding Services",
+    "text": "From sleek Shopify stores to complete brand transformations, our services are designed to help businesses grow online. Whether you're launching a startup or scaling your brand, we craft digital experiences that convert visitors into loyal customers...",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "img": "images/image-08-287x239.jpg",
+    "date": "April 2, 2025",
+    "title": "Why Your Brand Needs a Custom Shopify Store",
+    "text": "A generic template won't cut it if you want to stand out. Learn why custom Shopify design not only improves performance but also builds trust, boosts conversions, and helps you connect with your audience more deeply...",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "img": "images/image-09-287x239.jpg",
+    "date": "March 28, 2025",
+    "title": "The Power of Great UX in eCommerce",
+    "text": "User experience (UX) can make or break your online store. This post dives into how intuitive navigation, clear layouts, and mobile-first design lead to higher customer satisfaction and more sales...",
+    "link": "#"
+  }
+]
